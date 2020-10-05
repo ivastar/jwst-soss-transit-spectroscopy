@@ -9,3 +9,4 @@ git+https://github.com/lkreidberg/batman
 jwst 
 corner >= 2.0.1
 juliet >= 2.0.25
+Cython
